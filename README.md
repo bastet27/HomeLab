@@ -11,7 +11,7 @@ This folder contains my write-ups for home lab projects focused on **detection, 
 |                     | Proxmox               | Available but not yet in use |
 |                     | Flipper Zero          | Various testing and tool experimentation |
 |                     | Raspberry Pi          | Future expansion for additional projects |
-| **🌐 Network & Security** | Ubuntu Server      | Acting as a firewall ([Setup Guide](/HomeLab/ubuntu-kali-setup.md)) |
+| **🌐 Network & Security** | Ubuntu Server      | Acting as a firewall ([Setup Guide](https://github.com/bastet27/HomeLab/blob/main/Setup.md)) |
 |                     | Wireshark             | Packet analysis and network forensics |
 |                     | Nmap & Shodan         | Scanning, discovery, and reconnaissance |
 | **🖥️ Virtual Machines** | Kali Linux           | Offensive security testing environment |
@@ -23,7 +23,7 @@ This folder contains my write-ups for home lab projects focused on **detection, 
 
 ### 🔧 **Initial Setup**  
 - Installed **VMware Fusion** and set up **Kali Linux** and **Parrot OS** VMs  
-- Configured **Ubuntu Server** as a firewall ([Guide in Progress](/HomeLab/ubuntu-kali-setup.md))  
+- Configured **Ubuntu Server** as a firewall ([Setup Guide](https://github.com/bastet27/HomeLab/blob/main/Setup.md))  
 
 ### 🚀 **Next Steps**  
 - Deploy and configure **SIEM tools** such as Wazuh and ELK Stack  
